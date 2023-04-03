@@ -101,7 +101,7 @@
 
 ### 📌 아키텍처
 
-(이미지 첨부)
+![아키텍처](https://user-images.githubusercontent.com/85045177/229474165-c5b0ad89-0b63-4ea2-bbac-0867123081bc.png)
 
 - MSA 구조를 기반으로 진행
 - Spring Cloud, Eureka
